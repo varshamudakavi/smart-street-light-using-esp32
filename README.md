@@ -77,3 +77,7 @@ Developed as a collaborative academic project.
 ---
 
 **Academic Project | Smart Street Lighting | ESP32 and IoT**
+
+## Project Demonstration
+
+![Smart Street Light Prototype](project-demo.jpeg)
